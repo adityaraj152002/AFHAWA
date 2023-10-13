@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AFHAWA/static/css/main.e6c13ad2.css",
+    "main.js": "/AFHAWA/static/js/main.ad886aff.js",
+    "static/js/787.4c026eef.chunk.js": "/AFHAWA/static/js/787.4c026eef.chunk.js",
+    "index.html": "/AFHAWA/index.html",
+    "main.e6c13ad2.css.map": "/AFHAWA/static/css/main.e6c13ad2.css.map",
+    "main.ad886aff.js.map": "/AFHAWA/static/js/main.ad886aff.js.map",
+    "787.4c026eef.chunk.js.map": "/AFHAWA/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ad886aff.js"
+  ]
+}
